@@ -1,0 +1,4 @@
+{
+  "name": "db_admin_routes",
+  "main": "db_admin.js"
+}

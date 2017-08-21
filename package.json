@@ -1,0 +1,15 @@
+{
+  "name": "basic-node-app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    "mysql": "^2.14.1"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
